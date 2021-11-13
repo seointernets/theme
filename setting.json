@@ -2,7 +2,7 @@
   "name-web":"Theme Plugin Premium Free Download",
   "author":"GitAccess",
   "remove-comment-html":true,
-  "target":"https://www.themeslide.com",
+  "target":"https://babiato.co",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"www.themeslide.com",
+      "target":"babiato.co",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
