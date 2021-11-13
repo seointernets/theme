@@ -2,7 +2,7 @@
   "name-web":"Theme Plugin Premium Free Download",
   "author":"GitAccess",
   "remove-comment-html":true,
-  "target":"https://babiato.co",
+  "target":"https://yukapo.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,7 +20,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"babiato.co",
+      "target":"yukapo.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
